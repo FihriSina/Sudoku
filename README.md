@@ -23,9 +23,9 @@ The program works by:
     cd Sudoku
     ```
 
-2. To solve a puzzle, you can modify the `puzzle` list in `solver.py` and run the program:
+2. To solve a puzzle, you can modify the `puzzle` list in `sudoku.py` and run the program:
     ```bash
-    python solver.py
+    python sudoku.py
     ```
 
 3. The program will print the initial puzzle and the solved version if possible, or notify you if the puzzle is unsolvable.
@@ -115,9 +115,9 @@ Program şu şekilde çalışır:
     cd Sudoku
     ```
 
-2. Çözmek istediğiniz bulmacayı `solver.py` dosyasındaki `puzzle` listesinde değiştirebilir ve programı çalıştırabilirsiniz:
+2. Çözmek istediğiniz bulmacayı `sudoku.py` dosyasındaki `puzzle` listesinde değiştirebilir ve programı çalıştırabilirsiniz:
     ```bash
-    python solver.py
+    python sudoku.py
     ```
 
 3. Program, bulmacanın başlangıç halini ve çözülmüş halini ekrana yazdıracak veya bulmacanın çözülemez olduğunu bildirecektir.
