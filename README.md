@@ -177,5 +177,3 @@ Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LIC
 3. Yaptığınız değişiklikleri commit edin (`git commit -am 'Yeni özellik ekle'`).
 4. Dala push edin (`git push origin yeni-özellik`).
 5. Pull Request oluşturun.
-
-```
